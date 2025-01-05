@@ -1,0 +1,523 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" width="576pt" height="165.6pt" viewBox="0 0 576 165.6" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2024-12-24T01:48:20.890380</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.8.2, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 165.6  L 576 165.6  L 576 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 45.74 127.24  L 242.570455 127.24  L 242.570455 12.6756  L 45.74 12.6756  z " style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 54.686839 127.24  L 54.686839 12.6756  " clip-path="url(#p70a2cb2ea6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="m2cb55341a7" d="M 0 0  L 0 3.5  " style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m2cb55341a7" x="54.686839" y="127.24" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font: 8px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="54.686839" y="140.31875" transform="rotate(-0 54.686839 140.31875)">0.00</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 99.421033 127.24  L 99.421033 12.6756  " clip-path="url(#p70a2cb2ea6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m2cb55341a7" x="99.421033" y="127.24" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font: 8px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="99.421033" y="140.31875" transform="rotate(-0 99.421033 140.31875)">0.25</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 144.155227 127.24  L 144.155227 12.6756  " clip-path="url(#p70a2cb2ea6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m2cb55341a7" x="144.155227" y="127.24" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font: 8px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="144.155227" y="140.31875" transform="rotate(-0 144.155227 140.31875)">0.50</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 188.889421 127.24  L 188.889421 12.6756  " clip-path="url(#p70a2cb2ea6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m2cb55341a7" x="188.889421" y="127.24" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font: 8px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="188.889421" y="140.31875" transform="rotate(-0 188.889421 140.31875)">0.75</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 233.623616 127.24  L 233.623616 12.6756  " clip-path="url(#p70a2cb2ea6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m2cb55341a7" x="233.623616" y="127.24" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font: 8px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="233.623616" y="140.31875" transform="rotate(-0 233.623616 140.31875)">1.00</text>
+     </g>
+    </g>
+    <g id="text_6">
+     <text style="font: 9px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="144.155227" y="152.821094" transform="rotate(-0 144.155227 152.821094)">interpolation step</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_11">
+      <path d="M 45.74 119.858499  L 242.570455 119.858499  " clip-path="url(#p70a2cb2ea6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12">
+      <defs>
+       <path id="m836cf51796" d="M 0 0  L -3.5 0  " style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m836cf51796" x="45.74" y="119.858499" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font: 8px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="38.74" y="122.897874" transform="rotate(-0 38.74 122.897874)">40</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_13">
+      <path d="M 45.74 102.854181  L 242.570455 102.854181  " clip-path="url(#p70a2cb2ea6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m836cf51796" x="45.74" y="102.854181" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font: 8px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="38.74" y="105.893556" transform="rotate(-0 38.74 105.893556)">50</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_15">
+      <path d="M 45.74 85.849863  L 242.570455 85.849863  " clip-path="url(#p70a2cb2ea6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m836cf51796" x="45.74" y="85.849863" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font: 8px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="38.74" y="88.889238" transform="rotate(-0 38.74 88.889238)">60</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_17">
+      <path d="M 45.74 68.845545  L 242.570455 68.845545  " clip-path="url(#p70a2cb2ea6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m836cf51796" x="45.74" y="68.845545" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font: 8px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="38.74" y="71.88492" transform="rotate(-0 38.74 71.88492)">70</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_19">
+      <path d="M 45.74 51.841227  L 242.570455 51.841227  " clip-path="url(#p70a2cb2ea6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m836cf51796" x="45.74" y="51.841227" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font: 8px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="38.74" y="54.880602" transform="rotate(-0 38.74 54.880602)">80</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_21">
+      <path d="M 45.74 34.836909  L 242.570455 34.836909  " clip-path="url(#p70a2cb2ea6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m836cf51796" x="45.74" y="34.836909" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font: 8px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="38.74" y="37.876284" transform="rotate(-0 38.74 37.876284)">90</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_23">
+      <path d="M 45.74 17.832591  L 242.570455 17.832591  " clip-path="url(#p70a2cb2ea6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#m836cf51796" x="45.74" y="17.832591" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font: 8px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="38.74" y="20.871966" transform="rotate(-0 38.74 20.871966)">100</text>
+     </g>
+    </g>
+    <g id="text_14">
+     <text style="font: 9px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="17.598281" y="69.9578" transform="rotate(-90 17.598281 69.9578)">accuracy [%]</text>
+    </g>
+   </g>
+   <g id="line2d_25">
+    <path d="M 54.686839 51.062748  L 74.568703 54.218427  L 94.450567 58.94219  L 114.332431 67.770819  L 134.214295 80.106837  L 154.096159 93.030119  L 173.978023 102.832842  L 193.859888 110.298302  L 213.741752 116.439701  L 233.623616 121.727728  " clip-path="url(#p70a2cb2ea6)" style="fill: none; stroke: #8000ff; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_26">
+    <path d="M 54.686839 29.416451  L 74.568703 30.577527  L 94.450567 30.842887  L 114.332431 32.136809  L 134.214295 34.073375  L 154.096159 36.723658  L 173.978023 39.451987  L 193.859888 42.027544  L 213.741752 44.507783  L 233.623616 46.988686  " clip-path="url(#p70a2cb2ea6)" style="fill: none; stroke: #4e4dfc; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_27">
+    <path d="M 54.686839 21.440695  L 74.568703 21.988021  L 94.450567 21.930897  L 114.332431 22.329436  L 134.214295 22.874106  L 154.096159 23.630001  L 173.978023 24.005956  L 193.859888 24.27829  L 213.741752 24.551954  L 233.623616 24.809675  " clip-path="url(#p70a2cb2ea6)" style="fill: none; stroke: #1996f3; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_28">
+    <path d="M 54.686839 18.289582  L 74.568703 18.486195  L 94.450567 18.411801  L 114.332431 18.470253  L 134.214295 18.587158  L 154.096159 18.789084  L 173.978023 18.820967  L 193.859888 18.78377  L 213.741752 18.751887  L 233.623616 18.757201  " clip-path="url(#p70a2cb2ea6)" style="fill: none; stroke: #18cde4; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_29">
+    <path d="M 54.686839 17.933554  L 74.568703 18.002634  L 94.450567 17.965437  L 114.332431 18.013262  L 134.214295 18.029204  L 154.096159 18.061087  L 173.978023 18.066401  L 193.859888 18.061087  L 213.741752 18.061087  L 233.623616 18.045145  " clip-path="url(#p70a2cb2ea6)" style="fill: none; stroke: #4df3ce; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_30">
+    <path d="M 54.686839 17.933554  L 74.568703 17.965437  L 94.450567 17.960124  L 114.332431 17.992007  L 134.214295 18.02389  L 154.096159 18.061087  L 173.978023 18.034517  L 193.859888 18.007948  L 213.741752 18.002634  L 233.623616 17.99732  " clip-path="url(#p70a2cb2ea6)" style="fill: none; stroke: #80ffb4; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_31">
+    <path d="M 54.686839 17.883073  L 74.568703 17.883073  L 94.450567 17.896357  L 114.332431 17.916284  L 134.214295 17.958795  L 154.096159 17.995992  L 173.978023 17.974737  L 193.859888 17.956138  L 213.741752 17.969423  L 233.623616 17.97208  " clip-path="url(#p70a2cb2ea6)" style="fill: none; stroke: #b2f396; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_32">
+    <path d="M 54.686839 24.993667  L 74.568703 25.428739  L 94.450567 25.642953  L 114.332431 26.391542  L 134.214295 27.676165  L 154.096159 28.691774  L 173.978023 28.822296  L 193.859888 28.815654  L 213.741752 28.825617  L 233.623616 28.925584  " clip-path="url(#p70a2cb2ea6)" style="fill: none; stroke: #e6cd73; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_33">
+    <path d="M 54.686839 37.828191  L 74.568703 38.907235  L 94.450567 39.690363  L 114.332431 41.70315  L 134.214295 44.737856  L 154.096159 47.84488  L 173.978023 49.747238  L 193.859888 51.122031  L 213.741752 52.458298  L 233.623616 53.792572  " clip-path="url(#p70a2cb2ea6)" style="fill: none; stroke: #ff964f; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_34">
+    <path d="M 54.686839 82.00164  L 74.568703 84.992423  L 94.450567 88.338737  L 114.332431 93.893868  L 134.214295 100.58882  L 154.096159 106.863231  L 173.978023 111.600943  L 193.859888 115.449332  L 213.741752 118.919193  L 233.623616 122.032527  " clip-path="url(#p70a2cb2ea6)" style="fill: none; stroke: #ff4d27; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 45.74 127.24  L 45.74 12.6756  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 242.570455 127.24  L 242.570455 12.6756  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 45.74 127.24  L 242.570455 127.24  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 45.74 12.6756  L 242.570455 12.6756  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_7">
+    <path d="M 289.960455 127.24  L 486.790909 127.24  L 486.790909 12.6756  L 289.960455 12.6756  z " style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_6">
+     <g id="line2d_35">
+      <path d="M 298.907293 127.24  L 298.907293 12.6756  " clip-path="url(#p24b399e75b)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_36">
+      <g>
+       <use xlink:href="#m2cb55341a7" x="298.907293" y="127.24" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font: 8px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="298.907293" y="140.31875" transform="rotate(-0 298.907293 140.31875)">0.00</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_37">
+      <path d="M 343.641488 127.24  L 343.641488 12.6756  " clip-path="url(#p24b399e75b)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_38">
+      <g>
+       <use xlink:href="#m2cb55341a7" x="343.641488" y="127.24" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="font: 8px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="343.641488" y="140.31875" transform="rotate(-0 343.641488 140.31875)">0.25</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_39">
+      <path d="M 388.375682 127.24  L 388.375682 12.6756  " clip-path="url(#p24b399e75b)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_40">
+      <g>
+       <use xlink:href="#m2cb55341a7" x="388.375682" y="127.24" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <text style="font: 8px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="388.375682" y="140.31875" transform="rotate(-0 388.375682 140.31875)">0.50</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_41">
+      <path d="M 433.109876 127.24  L 433.109876 12.6756  " clip-path="url(#p24b399e75b)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_42">
+      <g>
+       <use xlink:href="#m2cb55341a7" x="433.109876" y="127.24" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <text style="font: 8px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="433.109876" y="140.31875" transform="rotate(-0 433.109876 140.31875)">0.75</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_43">
+      <path d="M 477.84407 127.24  L 477.84407 12.6756  " clip-path="url(#p24b399e75b)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_44">
+      <g>
+       <use xlink:href="#m2cb55341a7" x="477.84407" y="127.24" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <text style="font: 8px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="477.84407" y="140.31875" transform="rotate(-0 477.84407 140.31875)">1.00</text>
+     </g>
+    </g>
+    <g id="text_20">
+     <text style="font: 9px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="388.375682" y="152.821094" transform="rotate(-0 388.375682 152.821094)">interpolation step</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_8">
+     <g id="line2d_45">
+      <path d="M 289.960455 118.703887  L 486.790909 118.703887  " clip-path="url(#p24b399e75b)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_46">
+      <g>
+       <use xlink:href="#m836cf51796" x="289.960455" y="118.703887" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <text style="font: 8px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="282.960455" y="121.743262" transform="rotate(-0 282.960455 121.743262)">−50</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_47">
+      <path d="M 289.960455 98.539724  L 486.790909 98.539724  " clip-path="url(#p24b399e75b)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_48">
+      <g>
+       <use xlink:href="#m836cf51796" x="289.960455" y="98.539724" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <text style="font: 8px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="282.960455" y="101.579099" transform="rotate(-0 282.960455 101.579099)">−40</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_49">
+      <path d="M 289.960455 78.375561  L 486.790909 78.375561  " clip-path="url(#p24b399e75b)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_50">
+      <g>
+       <use xlink:href="#m836cf51796" x="289.960455" y="78.375561" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_23">
+      <text style="font: 8px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="282.960455" y="81.414936" transform="rotate(-0 282.960455 81.414936)">−30</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_51">
+      <path d="M 289.960455 58.211398  L 486.790909 58.211398  " clip-path="url(#p24b399e75b)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_52">
+      <g>
+       <use xlink:href="#m836cf51796" x="289.960455" y="58.211398" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_24">
+      <text style="font: 8px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="282.960455" y="61.250773" transform="rotate(-0 282.960455 61.250773)">−20</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_53">
+      <path d="M 289.960455 38.047236  L 486.790909 38.047236  " clip-path="url(#p24b399e75b)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_54">
+      <g>
+       <use xlink:href="#m836cf51796" x="289.960455" y="38.047236" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_25">
+      <text style="font: 8px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="282.960455" y="41.086611" transform="rotate(-0 282.960455 41.086611)">−10</text>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_55">
+      <path d="M 289.960455 17.883073  L 486.790909 17.883073  " clip-path="url(#p24b399e75b)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_56">
+      <g>
+       <use xlink:href="#m836cf51796" x="289.960455" y="17.883073" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_26">
+      <text style="font: 8px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="282.960455" y="20.922448" transform="rotate(-0 282.960455 20.922448)">0</text>
+     </g>
+    </g>
+    <g id="text_27">
+     <text style="font: 9px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="260.204986" y="69.9578" transform="rotate(-90 260.204986 69.9578)">rel. change in accuracy [%]</text>
+    </g>
+   </g>
+   <g id="line2d_57">
+    <path d="M 298.907293 17.883073  L 318.789157 22.534065  L 338.671022 29.496175  L 358.552886 42.508233  L 378.43475 60.689651  L 398.316614 79.736607  L 418.198478 94.184334  L 438.080342 105.187289  L 457.962206 114.238778  L 477.84407 122.032527  " clip-path="url(#p24b399e75b)" style="fill: none; stroke: #8000ff; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_58">
+    <path d="M 298.907293 17.883073  L 318.789157 19.360558  L 338.671022 19.698232  L 358.552886 21.344766  L 378.43475 23.809072  L 398.316614 27.181593  L 418.198478 30.653429  L 438.080342 33.930859  L 457.962206 37.086997  L 477.84407 40.24398  " clip-path="url(#p24b399e75b)" style="fill: none; stroke: #4e4dfc; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_59">
+    <path d="M 298.907293 17.883073  L 318.789157 18.546177  L 338.671022 18.476969  L 358.552886 18.959812  L 378.43475 19.619698  L 398.316614 20.53549  L 418.198478 20.990971  L 438.080342 21.320914  L 457.962206 21.652466  L 477.84407 21.964705  " clip-path="url(#p24b399e75b)" style="fill: none; stroke: #1996f3; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_60">
+    <path d="M 298.907293 17.883073  L 318.789157 18.116849  L 338.671022 18.028393  L 358.552886 18.097894  L 378.43475 18.236896  L 398.316614 18.476991  L 418.198478 18.514901  L 438.080342 18.470673  L 457.962206 18.432763  L 477.84407 18.439081  " clip-path="url(#p24b399e75b)" style="fill: none; stroke: #18cde4; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_61">
+    <path d="M 298.907293 17.883073  L 318.789157 17.965038  L 338.671022 17.920903  L 358.552886 17.977648  L 378.43475 17.996564  L 398.316614 18.034394  L 418.198478 18.040699  L 438.080342 18.034394  L 457.962206 18.034394  L 477.84407 18.015479  " clip-path="url(#p24b399e75b)" style="fill: none; stroke: #4df3ce; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_62">
+    <path d="M 298.907293 17.883073  L 318.789157 17.920903  L 338.671022 17.914598  L 358.552886 17.952428  L 378.43475 17.990258  L 398.316614 18.034394  L 418.198478 18.002869  L 438.080342 17.971343  L 457.962206 17.965038  L 477.84407 17.958733  " clip-path="url(#p24b399e75b)" style="fill: none; stroke: #80ffb4; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_63">
+    <path d="M 298.907293 17.883073  L 318.789157 17.883073  L 338.671022 17.898831  L 358.552886 17.922468  L 378.43475 17.972893  L 398.316614 18.017015  L 418.198478 17.991802  L 438.080342 17.969741  L 457.962206 17.985499  L 477.84407 17.988651  " clip-path="url(#p24b399e75b)" style="fill: none; stroke: #b2f396; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_64">
+    <path d="M 298.907293 17.883073  L 318.789157 18.421674  L 338.671022 18.686863  L 358.552886 19.613586  L 378.43475 21.203899  L 398.316614 22.461184  L 418.198478 22.622764  L 438.080342 22.614541  L 457.962206 22.626875  L 477.84407 22.75063  " clip-path="url(#p24b399e75b)" style="fill: none; stroke: #e6cd73; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_65">
+    <path d="M 298.907293 17.883073  L 318.789157 19.333147  L 338.671022 20.385555  L 358.552886 23.090441  L 378.43475 27.168634  L 398.316614 31.344013  L 418.198478 33.900499  L 438.080342 35.748016  L 457.962206 37.54376  L 477.84407 39.336826  " clip-path="url(#p24b399e75b)" style="fill: none; stroke: #ff964f; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_66">
+    <path d="M 298.907293 17.883073  L 318.789157 23.579143  L 338.671022 29.952335  L 358.552886 40.532311  L 378.43475 53.283122  L 398.316614 65.232994  L 418.198478 74.256161  L 438.080342 81.585576  L 457.962206 88.194068  L 477.84407 94.123542  " clip-path="url(#p24b399e75b)" style="fill: none; stroke: #ff4d27; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_67"/>
+   <g id="patch_8">
+    <path d="M 289.960455 127.24  L 289.960455 12.6756  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 486.790909 127.24  L 486.790909 12.6756  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 289.960455 127.24  L 486.790909 127.24  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 289.960455 12.6756  L 486.790909 12.6756  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="legend_1">
+    <g id="patch_12">
+     <path d="M 495.059214 159.460817  L 563.331245 159.460817  Q 565.131245 159.460817 565.131245 157.660817  L 565.131245 13.24738  Q 565.131245 11.44738 563.331245 11.44738  L 495.059214 11.44738  Q 493.259214 11.44738 493.259214 13.24738  L 493.259214 157.660817  Q 493.259214 159.460817 495.059214 159.460817  z " style="fill: #ffffff; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"/>
+    </g>
+    <g id="line2d_68">
+     <path d="M 496.859214 18.735974  L 505.859214 18.735974  L 514.859214 18.735974  " style="fill: none; stroke: #8000ff; stroke-width: 1.5; stroke-linecap: square"/>
+    </g>
+    <g id="text_28">
+     <text style="font: 9px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="522.059214" y="21.885974" transform="rotate(-0 522.059214 21.885974)">conv-in</text>
+    </g>
+    <g id="line2d_69">
+     <path d="M 496.859214 31.946286  L 505.859214 31.946286  L 514.859214 31.946286  " style="fill: none; stroke: #4e4dfc; stroke-width: 1.5; stroke-linecap: square"/>
+    </g>
+    <g id="text_29">
+     <text style="font: 9px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="522.059214" y="35.096286" transform="rotate(-0 522.059214 35.096286)">down[0]</text>
+    </g>
+    <g id="line2d_70">
+     <path d="M 496.859214 45.156599  L 505.859214 45.156599  L 514.859214 45.156599  " style="fill: none; stroke: #1996f3; stroke-width: 1.5; stroke-linecap: square"/>
+    </g>
+    <g id="text_30">
+     <text style="font: 9px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="522.059214" y="48.306599" transform="rotate(-0 522.059214 48.306599)">down[1]</text>
+    </g>
+    <g id="line2d_71">
+     <path d="M 496.859214 58.366911  L 505.859214 58.366911  L 514.859214 58.366911  " style="fill: none; stroke: #18cde4; stroke-width: 1.5; stroke-linecap: square"/>
+    </g>
+    <g id="text_31">
+     <text style="font: 9px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="522.059214" y="61.516911" transform="rotate(-0 522.059214 61.516911)">down[2]</text>
+    </g>
+    <g id="line2d_72">
+     <path d="M 496.859214 71.577224  L 505.859214 71.577224  L 514.859214 71.577224  " style="fill: none; stroke: #4df3ce; stroke-width: 1.5; stroke-linecap: square"/>
+    </g>
+    <g id="text_32">
+     <text style="font: 9px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="522.059214" y="74.727224" transform="rotate(-0 522.059214 74.727224)">down[3]</text>
+    </g>
+    <g id="line2d_73">
+     <path d="M 496.859214 84.787536  L 505.859214 84.787536  L 514.859214 84.787536  " style="fill: none; stroke: #80ffb4; stroke-width: 1.5; stroke-linecap: square"/>
+    </g>
+    <g id="text_33">
+     <text style="font: 9px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="522.059214" y="87.937536" transform="rotate(-0 522.059214 87.937536)">mid</text>
+    </g>
+    <g id="line2d_74">
+     <path d="M 496.859214 97.997849  L 505.859214 97.997849  L 514.859214 97.997849  " style="fill: none; stroke: #b2f396; stroke-width: 1.5; stroke-linecap: square"/>
+    </g>
+    <g id="text_34">
+     <text style="font: 9px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="522.059214" y="101.147849" transform="rotate(-0 522.059214 101.147849)">up[0]</text>
+    </g>
+    <g id="line2d_75">
+     <path d="M 496.859214 111.208161  L 505.859214 111.208161  L 514.859214 111.208161  " style="fill: none; stroke: #e6cd73; stroke-width: 1.5; stroke-linecap: square"/>
+    </g>
+    <g id="text_35">
+     <text style="font: 9px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="522.059214" y="114.358161" transform="rotate(-0 522.059214 114.358161)">up[1]</text>
+    </g>
+    <g id="line2d_76">
+     <path d="M 496.859214 124.418474  L 505.859214 124.418474  L 514.859214 124.418474  " style="fill: none; stroke: #ff964f; stroke-width: 1.5; stroke-linecap: square"/>
+    </g>
+    <g id="text_36">
+     <text style="font: 9px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="522.059214" y="127.568474" transform="rotate(-0 522.059214 127.568474)">up[2]</text>
+    </g>
+    <g id="line2d_77">
+     <path d="M 496.859214 137.628786  L 505.859214 137.628786  L 514.859214 137.628786  " style="fill: none; stroke: #ff4d27; stroke-width: 1.5; stroke-linecap: square"/>
+    </g>
+    <g id="text_37">
+     <text style="font: 9px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="522.059214" y="140.778786" transform="rotate(-0 522.059214 140.778786)">up[3]</text>
+    </g>
+    <g id="line2d_78">
+     <path d="M 496.859214 150.839099  L 505.859214 150.839099  L 514.859214 150.839099  " style="fill: none; stroke: #ffffff; stroke-opacity: 0; stroke-width: 1.5; stroke-linecap: square"/>
+    </g>
+    <g id="text_38">
+     <text style="fill: #808080; font: 9px 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="522.059214" y="153.989099" transform="rotate(-0 522.059214 153.989099)">c̶o̶n̶v̶-̶o̶u̶t̶</text>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p70a2cb2ea6">
+   <rect x="45.74" y="12.6756" width="196.830455" height="114.5644"/>
+  </clipPath>
+  <clipPath id="p24b399e75b">
+   <rect x="289.960455" y="12.6756" width="196.830455" height="114.5644"/>
+  </clipPath>
+ </defs>
+</svg>
