@@ -577,8 +577,7 @@ Figure&nbsp;2: Example of different noise levels, i.e.&nbsp;time steps <span cla
 <section id="sec-datasets-imagenet" class="level3 unlisted unnumbered">
 <h3 class="unlisted unnumbered anchored" data-anchor-id="sec-datasets-imagenet">Imagenet</h3>
 <p>ImageNet by <span class="citation" data-cites="ILSVRC15">[<a href="#ref-ILSVRC15" role="doc-biblioref">84</a>]</span> is a large-scale image recognition dataset. A common variant is the imagenet-1k (ILSVRC) 2012 version hosted on Hugging Face<a href="#fn9" class="footnote-ref" id="fnref9" role="doc-noteref"><sup>9</sup></a>. It consists of 1000 classes and contains 1,281,167 training, 50,000 validation and 100,000 test images, which differ in resolution and aspect ratio.</p>
-<p>Due to the large size of the dataset, we run our experiments on a smaller variant, Tiny ImageNet<a href="#fn10" class="footnote-ref" id="fnref10" role="doc-noteref"><sup>10</sup></a>, which contains 200 classes and 100,000 images of size <span class="math inline">\(64\times64\)</span> pixels. Each class has 500 images for training, 50 for validation, and 50 for testing.</p>
-<p>For some tasks, we also utilize a custom subset of ImageNet, as described below, with fewer but larger images, compared to Tiny ImageNet.</p>
+<p>Due to the large size of the dataset, we run our experiments on a smaller variant, Tiny ImageNet<a href="#fn10" class="footnote-ref" id="fnref10" role="doc-noteref"><sup>10</sup></a>, which contains 200 classes and 100,000 images of size <span class="math inline">\(64\times64\)</span> pixels. Each class has 500 images for training, 50 for validation, and 50 for testing. For some tasks, we also utilize a custom subset of ImageNet, as described below, with fewer but larger images, compared to Tiny ImageNet.</p>
 </section>
 <section id="sec-datasets-imagenet-subset" class="level3 unlisted unnumbered">
 <h3 class="unlisted unnumbered anchored" data-anchor-id="sec-datasets-imagenet-subset">ImageNet Subset</h3>
@@ -716,7 +715,7 @@ Figure&nbsp;6: Different visualizations of the <code>up[1]</code> representation
 Table&nbsp;2: Linear Probe Classification Results for different SD models and blocks on the <a href="#sec-datasets-cifar"> CIFAR</a>-10 (C10), <a href="#sec-datasets-cifar"> CIFAR</a>-100 (C100), and Tiny-<a href="#sec-datasets-imagenet"> Imagenet</a> (T-IN) datasets. Input images are resized to <span class="math inline">\(512\times512\)</span> pixels and representations are averaged over the spatial dimensions. SDXL and SDXL-Turbo do not have <code>down[3]</code> and <code>up[3]</code> blocks.
 </figcaption>
 <div aria-describedby="tbl-lpc-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<div id="852fc223" class="cell" data-execution_count="11">
+<div id="5a1427de" class="cell" data-execution_count="11">
 <div class="cell-output cell-output-display">
 <table class="caption-top table table-sm table-striped small" data-quarto-postprocess="true">
 <tbody>
