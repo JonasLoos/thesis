@@ -1,0 +1,21 @@
+[project]
+name = "hydrahelper"
+version = "0.1.0"
+authors = [
+    {name = "Jonas Loos", email = "hydrahelper@jloos.de"}
+]
+description = "A helper package for working with the hydra cluster."
+readme = "README.md"
+license = {text = "None"}
+requires-python = ">=3.9"
+dependencies = []
+classifiers = [
+    "Private :: Do Not Upload",
+]
+
+[build-system]
+requires = [
+    "setuptools>=61",
+    "wheel"
+]
+build-backend = "setuptools.build_meta"

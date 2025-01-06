@@ -1,0 +1,77 @@
+project:
+  output-dir: _output
+  render: 
+    - index.qmd
+
+format:
+  pdf:
+    # keep-tex: true
+    documentclass: scrreport
+    title-meta: "An analysis of representation similarities in latent diffusion models and implications for representation extraction"
+    author-meta: "Jonas Loos"
+    number-sections: true
+    cite-method: biblatex
+    biblatexoptions:
+      - "style=numeric"
+      - "sorting=none"
+      - "maxcitenames=1"
+      - "sortcites=true"
+      - "backend=biber"
+      - "backref=true"
+    papersize: A4
+    linkcolor: grayishblue
+    urlcolor: grayishblue
+    citecolor: grayishblue
+    toc: false
+    include-in-header:
+      - text: |
+          \usepackage[table]{xcolor}  % for table cell color
+          \usepackage[section]{placeins}  % make sure figures are in the right section
+          \definecolor{grayishblue}{RGB}{86,117,165}  % color for links
+          \usepackage{wrapfig}  % figure next to text
+    include-before-body:
+      - assets/latex/title.tex
+    geometry:
+      - top=2.5cm
+      - bottom=2.5cm
+      - left=2.5cm
+      - right=2.5cm
+      - headsep=1.2cm
+      - includefoot
+  html:
+    theme:
+      light:
+        - flatly
+        - assets/other/html_light.scss
+      dark:
+        - darkly
+        - assets/other/html_dark.scss
+    toc: true
+    toc-depth: 2
+    toc-location: left
+    other-links:
+      - text: Download PDF
+        href: https://github.com/JonasLoos/thesis/releases/download/thesis-latest/thesis_an_analysis_of_representation_similarities_in_latent_diffusion_models_and_implications_for_representation_extraction.pdf
+      - text: GitHub
+        href: https://github.com/JonasLoos/thesis
+    citeproc: true
+    csl: ./assets/other/citation_style.csl
+    csl-options:
+      suppress-unused-references: true
+
+filters:
+  - assets/other/remove_default_titlepage.lua  # custom title page
+  - assets/other/wrapfigure.lua  # wrap figure next to text option for code block outputs
+  - nameref  # `\nameref` extension for html support
+
+bibliography: bibliography.bib
+execute:
+  # cache: true  # faster renders when no code was changed. Sometimes interferes with custom plot caching.
+  echo: false
+  code-overflow: wrap
+  warning: false
+  python:
+    env: py311
+
+logo: assets/TU_logo_short.png
+date: "2025-01-06"

@@ -1,0 +1,12 @@
+@import 'html_general.scss';
+
+/*-- scss:defaults --*/
+
+$link-color: rgb(171, 200, 244);
+$code-color: rgb(206, 206, 206);
+
+/*-- scss:rules --*/
+
+code:not(.sourceCode) {
+    background-color: rgb(50,50,50) !important;
+}

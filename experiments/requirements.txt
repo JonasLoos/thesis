@@ -1,0 +1,20 @@
+torch==2.4.1
+tqdm==4.66.1
+trainplot==0.3.1
+numpy==1.26.4
+matplotlib==3.8.2
+streamlit==1.29.0
+marimo==0.2.4
+diffusers==0.30.3
+transformers==4.41.2
+datasets==2.18.0
+scikit-learn==1.3.2
+gradio==4.25.*
+jupyter==1.1.1
+sdhelper==1.0.0
+
+
+# stuff required only for a few experiments:
+
+# piqa==1.3.2
+# scikit-image==0.22.0

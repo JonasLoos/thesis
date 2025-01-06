@@ -1,0 +1,45 @@
+name: Build Thesis HTML
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'thesis/**'
+      - '.github/workflows/build-thesis.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: 1.5.57
+          tinytex: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install torch matplotlib numpy ipython jupyter
+          sudo apt-get install librsvg2-bin
+
+      - name: Render Thesis
+        run: quarto render thesis --to html
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: thesis/_output

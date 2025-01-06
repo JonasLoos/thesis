@@ -1,0 +1,67 @@
+name: Build Thesis PDF
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'thesis/**'
+      - '.github/workflows/build-thesis.yml'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: 1.5.57
+          tinytex: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install torch matplotlib numpy ipython jupyter
+          sudo apt-get install librsvg2-bin ghostscript
+
+      - name: Render Thesis
+        run: quarto render thesis --to pdf
+
+      - name: Compress PDF
+        run: gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.5 -dPDFSETTINGS=/printer -dNOPAUSE -dQUIET -dBATCH -sOutputFile=thesis_an_analysis_of_representation_similarities_in_latent_diffusion_models_and_implications_for_representation_extraction.pdf thesis/_output/index.pdf
+
+      - name: Quarto Check
+        if: failure()  # additional debug info on failure
+        run: quarto check
+
+      - name: Delete existing release
+        run: gh release delete thesis-latest --yes
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Delete existing tag
+        run: git push origin :refs/tags/thesis-latest
+        continue-on-error: true
+
+      - name: Wait for deletion to propagate
+        run: sleep 2
+
+      - name: Create Release with assets
+        uses: softprops/action-gh-release@v2
+        with:
+          name: Latest Thesis PDF
+          tag_name: thesis-latest
+          files: ./thesis_an_analysis_of_representation_similarities_in_latent_diffusion_models_and_implications_for_representation_extraction.pdf
+          draft: false
+          prerelease: false
+          make_latest: true
